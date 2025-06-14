@@ -42,10 +42,3 @@ The Scholarship Application System is a web application designed to streamline t
 - **Sanction Amount:** Approve applications and sanction the required amount. Tick the green button to signify approval.
 - **Deletion:** Delete incorrect or invalid forms by clicking the red delete button.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Note
-
-Please ensure to follow all instructions carefully to set up and use the application effectively.
